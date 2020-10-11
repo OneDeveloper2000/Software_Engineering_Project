@@ -22,9 +22,7 @@ descending.
 
 5)Install Eclipse
 
-• My mvn test runs on my pc. In order to make them run on terminal, I have downloaded 
-apache-maven-3.6.3-bin.zip file. In order to make them run on eclipse I have added jdk 
-library.  
+• In order to make mvn test run on terminal, I download apache-maven-3.6.3-bin.zip file. In order to make them run on eclipse add jdk library.  
  
 **TEST**
  
